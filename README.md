@@ -1,1 +1,1 @@
-# react-redux-app
+# my-react-workspace
